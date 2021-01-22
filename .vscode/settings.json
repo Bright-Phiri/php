@@ -1,0 +1,9 @@
+{
+    "json.schemas": [
+    
+    ],
+    "[css]": {
+    
+        "editor.suggest.insertMode": "replace"
+    }
+}
